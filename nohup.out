@@ -1,0 +1,10 @@
+🛠 자동 감지 시작... 변경 사항이 생기면 자동으로 푸시됩니다.
+/Users/gimdonghyeon/baekjoon/.git/FETCH_HEAD
+/Users/gimdonghyeon/baekjoon/.git/objects/maintenance.lock
+🔍 커밋 전 점검을 시작합니다...
+usage: py_compile.py [-h] [-q] filenames [filenames ...]
+py_compile.py: error: the following arguments are required: filenames
+🚨 파이썬 문법 오류가 있습니다! 커밋을 중단합니다.
+Everything up-to-date
+✅ 자동 업로드 완료! (Auto commit on 2025-04-02 15:46:09)
+/Users/gimdonghyeon/baekjoon/sfsar.py
