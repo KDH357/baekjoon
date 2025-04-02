@@ -8,3 +8,26 @@ py_compile.py: error: the following arguments are required: filenames
 Everything up-to-date
 ✅ 자동 업로드 완료! (Auto commit on 2025-04-02 15:46:09)
 /Users/gimdonghyeon/baekjoon/sfsar.py
+🔍 커밋 전 점검을 시작합니다...
+✅ pre-commit 훅 실행 완료!
+[main 787b431] Auto commit on 2025-04-02 15:46:14
+ Committer: 김동현 <gimdonghyeon@gimdonghyeon-ui-MacBookPro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 10 insertions(+)
+ create mode 100644 nohup.out
+ create mode 100644 sfsar.py
+To https://github.com/KDH357/baekjoon.git
+   0107908..787b431  main -> main
+✅ 자동 업로드 완료! (Auto commit on 2025-04-02 15:46:14)
+/Users/gimdonghyeon/baekjoon/sfsar.py
